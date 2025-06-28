@@ -1,7 +1,7 @@
 
 # Project Alpha
 
-# 🗄️ Project Alpha v1.0
+# 🗄️ Project Alpha 
 
 ### A DIY Centralized NAS Server for Personal & Team Cloud Storage  
 _Built using Samba, SSH, and an old PC turned into a reliable home server_
@@ -82,35 +82,51 @@ You can now SSH from another device:
 ssh username@<server-ip>
 ```
 ---
-📡 Use Case Scenarios
-🧑‍💻 Host and organize code, documents, and PDFs
+## 📡 Use Case Scenarios
 
-🎬 Stream videos and media across LAN
+### 🧑‍💻 Host and Organize Code, Documents, and PDFs
+Use Project Alpha as your personal coding vault or document server — perfect for developers, writers, and students.
 
-🏫 Store and share college projects with group mates
+### 🎬 Stream Videos and Media Across LAN
+Stream movies, music, or lectures directly from your NAS to devices on your network using VLC, Kodi, or DLNA apps.
 
-👨‍👩‍👧‍👦 Use as a home shared family drive
+### 🏫 Store and Share College Projects with Group Mates
+Centralize your academic resources and share assignments, notes, and presentations securely over your campus network.
 
-🔐 Keep private backups away from cloud providers
+### 👨‍👩‍👧‍👦 Use as a Home Shared Family Drive
+Keep family photos, videos, and important documents in one accessible place — accessible from any device at home.
 
-🆚 Why Project Alpha > Google Drive (for local/private use)
-Feature	Google Drive	Project Alpha NAS
-Ownership	Google-owned	✅ Fully yours
-Storage Limit	15 GB free	✅ As much as your HDD
-Privacy	Tracks data	✅ Private and offline
-LAN Speed	Cloud-only	✅ Gigabit LAN access
-Cost	Monthly fees	✅ One-time hardware
+----
+## 🆚 Why Project Alpha > Google Drive (for Local/Private Use)
 
-⚙️ Future Enhancements (Alpha v1.1+)
- 🌐 Add NextCloud for web UI and syncing
+| **Feature**     | **Google Drive**     | **Project Alpha NAS**          |
+|----------------|----------------------|-------------------------------|
+| 🏠 Ownership     | Google-owned          | ✅ Fully yours                 |
+| 💾 Storage Limit | 15 GB free            | ✅ As much as your HDD allows |
+| 🔒 Privacy       | Tracks user data      | ✅ Private and offline         |
+| ⚡ LAN Speed     | Cloud-only            | ✅ Gigabit LAN access          |
+| 💰 Cost          | Monthly subscription  | ✅ One-time hardware cost      |
 
- 🔒 User-specific access controls
 
- 🕐 Scheduled backups to external drives
 
- 📊 Monitor usage stats (disk, bandwidth)
+## ⚙️ Future Enhancements (Alpha v1.1+)
 
- ☁️ Backup sync to external cloud (optional hybrid)
+### 🌐 Add NextCloud for Web UI and Syncing
+Integrate a user-friendly web dashboard to upload, download, and sync files across devices — similar to Google Drive.
 
-📜 License
-This project is open-source under the MIT License.
+### 🔒 User-Specific Access Controls
+Create individual user accounts with custom permissions and folder-level restrictions for better access control.
+
+### 🕐 Scheduled Backups to External Drives
+Automate backup routines to mirror your NAS content to external HDDs or USB drives periodically.
+
+### 📊 Monitor Usage Stats (Disk, Bandwidth)
+Track storage space, device uptime, and network bandwidth usage through dashboards or logging scripts.
+
+### ☁️ Backup Sync to External Cloud (Optional Hybrid)
+Set up automated sync to services like Google Drive or Dropbox to maintain an off-site backup layer for critical data.
+
+## 📜 License
+
+This project is open-source under the **[MIT License](https://opensource.org/licenses/MIT)**.  
+You are free to use, modify, and distribute this software with proper attribution.
