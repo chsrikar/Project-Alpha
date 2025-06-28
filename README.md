@@ -3,7 +3,7 @@
 
 # 🗄️ Project Alpha 
 
-### A DIY Centralized NAS Server for Personal & Team Cloud Storage  
+### A Centralized NAS Server for Personal & Team Cloud Storage  
 _Built using Samba, SSH, and an old PC turned into a reliable home server_
 
 ---
