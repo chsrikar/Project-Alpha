@@ -81,7 +81,7 @@ You can now SSH from another device:
 ```
 ssh username@<server-ip>
 ```
-
+---
 📡 Use Case Scenarios
 🧑‍💻 Host and organize code, documents, and PDFs
 
